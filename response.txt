@@ -1,0 +1,11 @@
+You'll find explanations about SEO in a couple of videos within the course!
+
+The main explanation for what SEO stands for and its core concept is in **Video 6: "SEO and Core Web Vitals in HTML"**.
+*   You can go to the segment from **0:60 to 0:73** where "SEO stands for Search Engine Optimization" is clearly explained with an example.
+*   Later in the same video, around **10:05 to 10:15**, it touches on what SEO stands for again in relation to meta descriptions.
+
+Additionally, **Video 3: "Basic Structure of an HTML Website"** discusses the utility and importance of SEO:
+*   Around **5:05 to 5:17**, it explains how certain elements are very useful in SEO and describe the content of a page.
+*   From **5:44 to 5:55**, you'll learn that the meta description is a very important keyword for SEO, helping to describe what a page is about.
+
+I recommend starting with **Video 6 at the 0:60 mark** for the primary definition, and then exploring the other mentioned sections for a deeper understanding of its application!

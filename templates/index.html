@@ -1,0 +1,141 @@
+<!-- <!doctype html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Sigma WebDev — Voice Q&A</title>
+
+ 
+</head>
+
+<body>
+<div class="container">
+
+  <div class="header">
+    <div class="title">
+      <h1>Sigma WebDev — Voice Q&A</h1>
+      <div class="lead">
+        Ask about the course by typing or speaking. Download answers as PDF.
+      </div>
+    </div>
+
+    <div class="toggle" id="modeToggle">
+      <span id="modeIcon">🌙</span>
+      <strong id="modeLabel">Dark</strong>
+    </div>
+  </div>
+
+  <div class="card">
+    <textarea id="question" placeholder="Type a question or use the microphone..."></textarea>
+
+    <div class="controls">
+      <button id="askBtn" class="btn-primary">Ask</button>
+      <button id="downloadBtn" class="btn-ghost" style="display:none">Download PDF</button>
+      <button id="clearBtn" class="btn-ghost">Clear</button>
+
+      <button id="micBtn" class="icon-btn">🎤</button>
+
+      <label>
+        <input id="ttsToggle" type="checkbox" checked> Speak answer
+      </label>
+
+      <button id="playBtn" class="btn-ghost" style="display:none">🔊 Play</button>
+      <div id="spinner" class="spinner" style="display:none">Thinking…</div>
+    </div>
+  </div>
+
+  <div id="results" class="results" hidden>
+    <div class="card">
+      <h3>Answer</h3>
+      <div id="answer" class="answer"></div>
+    </div>
+
+    <div id="chunksCard" class="card" hidden>
+      <h3>Relevant video chunks</h3>
+      <div id="chunksList"></div>
+    </div>
+  </div>
+
+  <div class="footer">
+    Uses local embeddings + GenAI/Ollama
+  </div>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+</html> -->
+
+ <!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Sigma WebDev — Voice Q&A</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <div class="title">
+      <h1>Sigma WebDev — Voice Q&A</h1>
+      <div class="lead">Ask about the course by typing or speaking. Click to download a clean PDF of answers.</div>
+    </div>
+
+    <div class="row">
+      <div class="toggle" id="modeToggle" title="Toggle dark / light mode">
+        <span id="modeIcon">🌙</span>
+        <strong id="modeLabel">Dark</strong>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div style="display:flex;gap:14px;align-items:flex-start;flex-direction:column">
+      <textarea id="question" placeholder="Type a question or use the microphone..."></textarea>
+
+      <div class="controls">
+        <button id="askBtn" class="btn-primary">Ask</button>
+        <button id="downloadBtn" class="btn-ghost" style="display:none">Download PDF</button>
+        <button id="clearBtn" class="btn-ghost">Clear</button>
+
+        <button id="micBtn" class="icon-btn" title="Speak" aria-pressed="false">🎤</button>
+
+        <label style="display:inline-flex;align-items:center;gap:8px;color:var(--muted)">
+          <input id="ttsToggle" type="checkbox" checked/> <span style="font-size:13px">Speak answer</span>
+        </label>
+
+        <button id="playBtn" class="btn-ghost" style="display:none">🔊 Play</button>
+
+        <div id="spinner" class="spinner" style="display:none">Thinking…</div>
+
+        <div style="margin-left:auto;color:var(--muted);font-size:13px">
+          Tip: <kbd>Ctrl</kbd>+<kbd>Enter</kbd> to submit.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="results" class="results" hidden>
+    <div class="card">
+      <h3 style="margin-top:0">Answer</h3>
+      <div id="answer" class="answer"></div>
+    </div>
+
+    <div id="chunksCard" class="card" hidden>
+      <h3 style="margin-top:0">Relevant video chunks</h3>
+      <div id="chunksList"></div>
+    </div>
+  </div>
+
+  <div class="footer">Uses local embedding server + GenAI/Ollama. Make sure <code>embeddings.joblib</code> is present.</div>
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+</html>
