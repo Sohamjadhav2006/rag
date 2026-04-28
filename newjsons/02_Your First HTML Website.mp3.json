@@ -1,0 +1,2021 @@
+{
+  "chunks": [
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 0.0,
+      "end": 10.76,
+      "text": " In the last video, you guys gave me a lot of love.  It's my pleasure to keep this course free.  I deserve a like for this free course.  You know, when I started web development,  there was no comprehensive course of this quality.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=0"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 10.76,
+      "end": 24.44,
+      "text": " Forget free or paid, there was no such course.  So I can understand how important it is for some people to be free of this course.  And trust me, I live up to the expectations.  With that said, like this video  because in this video, we are going to make our first website.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=10"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 24.44,
+      "end": 38.0,
+      "text": " And in this video, I am going to order iPhone 15 Pro Max.  We will see why, how and what will happen in the next video.  For some of you, this will be the first website of your life.  So it's going to be fun.  You guys are excited, right?",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=24"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 38.0,
+      "end": 50.120000000000005,
+      "text": " Write in the comments, I am excited.  And whatever I am excited will write in the comments,  I will give heart to all those comments.  In this video, we will learn to link an HTML website with CSS and JavaScript.  Along with that, in this video, I am going to give you guys",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=38"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 50.120000000000005,
+      "end": 67.56,
+      "text": " notes, cheat sheets and many more resources.  I will tell you guys some techniques that I have learned in years.  And it will literally make your web development speed 10x.  In this video, we will also see how to make our VS Code awesome.  So that your VS Code screen will look killer.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=50"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 67.56,
+      "end": 89.4,
+      "text": " In this video, I will also tell you guys how to earn money from web development.  So let's start with full energy.  Let's roll the intro.  Alright guys, so we have come to our computer screen.  Before moving forward in the video, I would like to tell you all that",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=67"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 89.4,
+      "end": 106.03999999999999,
+      "text": " do access this playlist.  Secondly, we are very close to 5 million subscribers.  So if you have not yet hit the subscribe button, then do it.  In today's video, we are going to make our first website, as I told you.  The first thing we will do is to customize our VS Code.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=89"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 106.03999999999999,
+      "end": 122.44,
+      "text": " So this is the folder in which we started our web development series.  Now I have to give you the source code of this web development series.  So I will configure Git here.  Now it is not at all necessary for you to know about Git.  But I will fire the GitHub desktop here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=106"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 122.44,
+      "end": 136.48,
+      "text": " And what I will do here is that I will add a new repository.  I will click on add here.  I will click on create new repository.  I will name it Sigma Web Dev Codes.  And this is our repository.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=122"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 136.48,
+      "end": 148.96,
+      "text": " So I will select this folder.  I will initialize this repository with readme.  And I will write source code for Sigma Web Development Codes here.  I will click on create repository.  By doing this, a repository will be created here, which is called Sigma Web Dev Codes.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=136"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 148.96,
+      "end": 160.96,
+      "text": " I will put all the things that were relevant from the first video here.  So these two files were relevant from the first video.  So I will name it video 1.  Right click, new folder.  I will make a video 1 here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=148"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 160.96,
+      "end": 171.28,
+      "text": " And I will move these two files to the video 1 folder.  I am not pushing this video on Git.  These are sample videos.  You can use your sample videos.  So now whatever the source code will be, I will keep updating it here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=160"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 171.28,
+      "end": 179.52,
+      "text": " And I will keep pushing it on Git here.  Now how do we push it on Git here?  You don't need to learn this.  But this procedure is very simple.  Why do we use Git?",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=171"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 179.52,
+      "end": 196.56,
+      "text": " I would like to tell you that Git is used by web developers.  Or general coders use it.  When they have to collaborate their code with other people.  So what will happen is that you will work with many programmers.  And those programmers will collaborate with your source code.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=179"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 196.56,
+      "end": 207.12,
+      "text": " And to do this kind of collaboration, they will also push some code.  You will also push some code.  Maybe one person is editing a file.  One person is editing another file.  So GitHub comes into use here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=196"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 207.12,
+      "end": 223.32,
+      "text": " And what is GitHub Desktop?  GitHub Desktop is a utility to use Git.  The difference between Git and GitHub is that Git is open source.  But GitHub is a Microsoft-owned company.  Which helps you to host repositories on your web interface using Git.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=207"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 223.32,
+      "end": 238.04,
+      "text": " I will tell you more about Git in the coming videos.  But I am pushing this repository on my GitHub account.  So you will get the repository link in the description.  So as I give you links, you will get all the code if you follow it.  And I will talk about it later.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=223"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 238.04,
+      "end": 251.52,
+      "text": " I am making this video, the course, an impact.  In such a way that absolute beginners can follow it.  So as soon as I click on the published repository,  this code, this folder will sync with my GitHub account.  So all the code that I am going to upload here,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=238"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 251.52,
+      "end": 263.32,
+      "text": " it will go to my GitHub account and will keep syncing.  The changes that will be here, will be there.  If someone has made changes there, I can pull it here.  I can pull it by clicking here, by doing fetch origin.  I will teach you all this.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=251"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 263.32,
+      "end": 272.32,
+      "text": " We will dedicate a whole video to Git.  You don't worry at all.  I did this thing so that I can give you code.  Now I will make a folder called video2 here.  And I will go inside this video2 folder.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=263"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 272.32,
+      "end": 283.79999999999995,
+      "text": " I will press shift right click and open with VS code.  So here it is open with code.  You will get this option if you have installed VS code  as I told you.  If you have made any changes and you have not checked,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=272"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 283.79999999999995,
+      "end": 293.91999999999996,
+      "text": " that checkbox which I showed you,  then you may have a problem.  So we will do this no, we will dismiss the notification.  Now whatever file I make here,  like I will make index.html here,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=283"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 293.91999999999996,
+      "end": 303.47999999999996,
+      "text": " that file will be made here too.  So everyone knows about this now.  And I know there are a lot of intermediate people here  who are saying that we already know all these things.  But I am making this course in such a way",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=293"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 303.47999999999996,
+      "end": 314.6,
+      "text": " that all beginners can follow along.  So I will make three files here.  One I made here index.html.  The second file I am going to make is style.css.  And the third file I am going to make is script.js.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=303"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 314.6,
+      "end": 324.04,
+      "text": " And the name of these files can be anything.  But I just want to keep these files self-explanatory.  So that by looking at their name,  we can know what they are doing.  Index.html is an HTML file.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=314"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 324.04,
+      "end": 335.24,
+      "text": " Script.js is a JavaScript file.  Style.css is a style sheet.  So I made these three files here.  I will go to index.html and put an exclamation mark.  And as soon as I put an exclamation mark,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=324"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 335.24,
+      "end": 344.84000000000003,
+      "text": " you see this code has come here.  I will click on view word wrap  so that you can see this code.  The horizontal scroll bar moves away from the word wrap.  I checked the word wrap here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=335"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 344.84000000000003,
+      "end": 358.84000000000003,
+      "text": " So now you see here that  we will understand this code.  But for now, you understand that this code is HTML code.  We use it to make a website.  Now come to the extensions tab of VS Code.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=344"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 358.84000000000003,
+      "end": 378.32,
+      "text": " Extensions are used to enhance the functionality of VS Code.  We use extensions to make VS Code better.  The extensions of VS Code help us write code.  So which extension will we use?  First of all, I will put some extensions",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=358"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 378.32,
+      "end": 390.32,
+      "text": " which will kill our VS Code.  If your friends see it, they will say,  brother, do it.  So what I will do here quickly is VS Code Icons.  There is an extension called VS Code Icons",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=378"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 390.32,
+      "end": 399.4,
+      "text": " which I will install as soon as I do it.  You will get to know that whatever file it is,  like you are seeing here, its icon has come.  Earlier this icon was not coming.  If you look at the video behind,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=390"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 399.4,
+      "end": 410.2,
+      "text": " you can see all these icons here.  Thanks for installing VS Code Icons.  I will activate it here.  And here you can see that  our icons are looking good.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=399"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 410.2,
+      "end": 417.2,
+      "text": " In the coming time, if we make a folder,  like if I made a folder,  then this kind of icon will come.  So these icons look good.  We will come back to the extensions tab.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=410"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 417.2,
+      "end": 424.32000000000005,
+      "text": " And here are a lot of good themes  that you can use.  There are some themes,  Jellyfish theme,  there is one GitHub theme,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=417"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 424.32000000000005,
+      "end": 434.64000000000004,
+      "text": " there are many themes.  You can use these themes.  But I can only put one theme at a time.  This is the default VS Code theme  which shows you the VS Code like this.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=424"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 434.64000000000004,
+      "end": 444.88000000000005,
+      "text": " Now if I change my theme,  then my VS Code will look different.  I will show you which one I will prefer  when it comes to theme.  First of all, I will show you GitHub theme",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=434"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 444.88000000000005,
+      "end": 454.44,
+      "text": " here how it looks.  So GitHub theme is officially  a theme provided by GitHub.  Now see GitHub dark,  GitHub light,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=444"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 454.44,
+      "end": 462.24,
+      "text": " GitHub dimmed,  GitHub colorblind.  I like this one a little better  because the colors in it are...  Sorry, I don't like this one.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=454"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 462.24,
+      "end": 472.08,
+      "text": " I will choose GitHub dark here  because the colors here are different.  Another theme that is liked  is Jellyfish.  And here Jellyfish theme",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=462"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 472.08,
+      "end": 478.88,
+      "text": " is liked by many people.  If I install it,  then your VS Code will look like this.  You can see Jellyfish.  It will look like this.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=472"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 478.88,
+      "end": 486.52000000000004,
+      "text": " After this, there is a material theme  which is also very popular.  And if I use material theme here,  material theme  and material theme icons,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=478"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 486.52000000000004,
+      "end": 495.12,
+      "text": " we had to install this material theme.  If you have installed material theme icons,  then you can change your icons  to control which extension.  And here we have installed",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=486"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 495.12,
+      "end": 503.0,
+      "text": " many extensions.  I will also tell you how to delete extensions.  Here I am showing VS Code material theme icons  like this.  And if you want,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=495"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 503.0,
+      "end": 514.04,
+      "text": " you can use VS Code icons.  If I want the material theme icons  to be removed,  then I will simply remove it.  And all my extensions are visible here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=503"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 514.04,
+      "end": 523.72,
+      "text": " Like material theme icon.  And if I want to use these,  then I will select it.  And if I want, I can also uninstall it.  And sometimes when we uninstall anything,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=514"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 523.72,
+      "end": 530.8,
+      "text": " then reload is required.  So I will have to click on reload required.  And when I click on reload required,  then my VS Code will be reloaded.  So you can customize your VS Code",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=523"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 530.8,
+      "end": 539.08,
+      "text": " according to your needs.  I will select VS Code icons  here so that  my icons look like this.  I like this a little.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=530"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 539.08,
+      "end": 547.2,
+      "text": " I also like the jellyfish theme a lot.  After this, there is another extension  whose name is Prettier.  I will not install it either.  But I just want to tell you.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=539"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 547.2,
+      "end": 553.88,
+      "text": " There is another extension, ES7.  You will know when we react.  And yes, we will react in this course.  For all those asking.  Okay.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=547"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 553.88,
+      "end": 561.1600000000001,
+      "text": " Sorry for the spoilers,  but we are going to react in this course.  So here is ES7 plus React Redux,  React Native Snippets.  This extension gives you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=553"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 561.1600000000001,
+      "end": 571.5600000000001,
+      "text": " React snippets.  We will use it when we react.  We will not install it for now.  But now the most important  extension is called Live Preview.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=561"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 571.5600000000001,
+      "end": 578.7600000000001,
+      "text": " We will install this extension  called Live Preview.  Because this is a very useful extension.  All the extensions I told you  mostly help you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=571"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 578.7600000000001,
+      "end": 587.84,
+      "text": " to change the look and feel of VS Code.  But the extension I am telling you today,  Live Preview,  you will actually use it.  Let's come to our HTML, CSS,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=578"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 587.84,
+      "end": 594.1600000000001,
+      "text": " and JavaScript files.  So here are our HTML, CSS,  and JavaScript files.  This is an HTML file.  This is some code",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=587"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 594.1999999999999,
+      "end": 601.36,
+      "text": " which tells the website  how to look.  Okay.  So here I am saying  that the title should have a document.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=594"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 601.36,
+      "end": 611.4399999999999,
+      "text": " I will write here  Harry's first website.  Harry's course's first website.  The course's first website.  Harry's first website will be a lie.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=601"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 611.4399999999999,
+      "end": 615.8,
+      "text": " Your first website.  You guys are writing your name in this.  Okay.  Whatever your name is.  Key first website.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=611"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 615.8,
+      "end": 623.5600000000001,
+      "text": " And if I write inside the body,  Hey, this is my first website.  And everyone write congratulations  in the comment below.  Everyone's first website.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=615"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 623.5600000000001,
+      "end": 630.6,
+      "text": " Everyone write congratulations.  Congratulations for my first website.  Okay.  And congratulate each other.  Make the atmosphere in the comment section.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=623"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 630.6,
+      "end": 635.8000000000001,
+      "text": " I also come in the comment section.  Okay.  And I give you all my heart.  Hey, this is my first website.  Okay.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=630"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 635.8000000000001,
+      "end": 642.5600000000001,
+      "text": " Now,  how should I see this?  The biggest question of people is,  there are two ways to see.  The extension we have installed,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=635"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 642.5600000000001,
+      "end": 650.96,
+      "text": " Live Server,  Live Preview, sorry.  Earlier, Live Server also worked very well.  But Microsoft released Live Preview.  So I will recommend this latest extension.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=642"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 650.96,
+      "end": 658.0400000000001,
+      "text": " Live Server also works.  But I am not going to run Live Server.  I am going to use Live Preview.  After installing Live Preview,  you see this icon here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=650"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 658.0400000000001,
+      "end": 664.5200000000001,
+      "text": " You are seeing above.  If you click on this,  your website will look like this.  Now you say that,  I want to see this website here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=658"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 664.5200000000001,
+      "end": 671.88,
+      "text": " In the browser.  Because my website will be seen in the browser.  So if you want to see this in the browser,  click here.  Open in browser.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=664"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 671.88,
+      "end": 678.0,
+      "text": " It will open in the browser.  And should I tell you a fun thing?  Listen to the fun thing too.  You can close it from here.  And you can write here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=671"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 678.0,
+      "end": 685.44,
+      "text": " Harry's course is good.  Assume you wrote it.  I am praising my course.  But yes,  what is it,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=678"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 685.44,
+      "end": 694.28,
+      "text": " Harry's course is good.  Okay, I wrote it here.  And you noticed one thing here.  I did not reload this website.  But even after that,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=685"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 694.28,
+      "end": 706.52,
+      "text": " it updated this content here.  Which I wrote in this VS Code.  That is, whatever I write here,  will be updated here without reloading.  Will it be done or not?",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=694"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 706.52,
+      "end": 714.8,
+      "text": " Clap.  What should be the clap for us?  Okay, it will be done.  And here,  Hey, this is my first website.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=706"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 714.8,
+      "end": 723.56,
+      "text": " Harry's course is good.  Now I will write here.  Sigma Harry's course is good.  Sigma Harry's course is good.  Sigma Harry's course is good.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=714"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 723.56,
+      "end": 731.12,
+      "text": " Okay.  So here you saw  how this extension will help us.  Even if you reload it,  it will not make any difference.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=723"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 731.12,
+      "end": 738.16,
+      "text": " Because it is being reloaded live.  So there are two things.  Sometimes we want that  our page  is previewed here and there.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=731"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 738.16,
+      "end": 745.72,
+      "text": " I close it.  So that you can see the code wide.  Sometimes we want that  we can see our code here and there.  Because we want to see",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=738"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 745.72,
+      "end": 753.8,
+      "text": " its live preview.  So let's say I'm writing anything.  Harry's course is good.  And this is the Sigma course.  And let's say I write something else here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=745"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 753.8,
+      "end": 761.48,
+      "text": " I can write a lot of things here.  So I will write here and I will keep watching here.  And I can also make it small or big.  Something like this.  So I will see the live update here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=753"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 761.48,
+      "end": 768.24,
+      "text": " My old videos,  if you have ever seen,  then I used this extension.  Live server.  Either this extension was not destroyed",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=761"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 768.24,
+      "end": 772.64,
+      "text": " or I did not know.  Whatever it is, it is.  Okay.  Now if something new comes,  then it takes time to find out.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=768"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 772.64,
+      "end": 780.32,
+      "text": " But this is something that you should use.  Because I use AEC in my daily life.  I do web development.  Okay.  Many people asked",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=772"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 780.32,
+      "end": 786.16,
+      "text": " do you also do web development  or just teach?  Oh man, I do it too.  I make websites.  I don't just make videos.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=780"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 786.16,
+      "end": 793.92,
+      "text": " I also work by making websites.  And yes, I earn a lot of money  by making websites.  Now all this code that I am writing,  you will get all this on GitHub.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=786"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 793.92,
+      "end": 801.0,
+      "text": " So you will go to the description of the video  anytime, any video.  You will get the code of the corresponding video.  You don't have to worry about that.  Now I will close this",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=793"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 801.0,
+      "end": 809.0,
+      "text": " because my preview is visible here.  Now assume HTML, CSS, JavaScript  which we talked about.  About which we talked so much  in the last video.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=801"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 809.0,
+      "end": 814.0,
+      "text": " Now I will tell you  how to link all these three.  Now you will say,  yes, you made index.html.  Very good.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=809"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 814.0,
+      "end": 821.0,
+      "text": " The title is also visible here.  See here,  the first website of the Harry's course.  Suppose I name it  Sigma Web Development Course.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=814"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 821.0,
+      "end": 826.24,
+      "text": " So this will change.  Sigma.  Okay.  Now I will make a new website.  It will change.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=821"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 826.24,
+      "end": 835.24,
+      "text": " Sigma.  Sigma Web Development.  Course.  Here it is written  Sigma Web Development Course.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=826"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 835.24,
+      "end": 840.24,
+      "text": " And you can see here  that it has been updated.  So it will keep updating.  Live update will be done.  Now I want",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=835"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 840.24,
+      "end": 846.24,
+      "text": " my background to be red.  Okay.  This kind of work is done with CSS.  So I can write here  Body",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=840"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 846.24,
+      "end": 852.24,
+      "text": " and background color red.  Okay.  This is the syntax of CSS.  I will teach CSS  and I will teach it in such a way",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=846"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 852.24,
+      "end": 858.48,
+      "text": " that you will not be able to forget it even if you want to.  Don't worry.  What is written here?  Now understand that this is CSS  which makes the body color red.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=852"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 858.48,
+      "end": 863.48,
+      "text": " Okay.  And here  you see  whether the color of the body will be red or not.  Tell me in the comment section.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=858"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 863.48,
+      "end": 868.48,
+      "text": " Now I will tell the beginners  that it will not be red.  Okay.  Why not?  Beginners will think it will be red.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=863"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 868.48,
+      "end": 874.48,
+      "text": " But it will not be.  There is not such a good world.  This HTML file is running now.  It does not know about this CSS file.  Now what is going on in my house?",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=868"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 874.48,
+      "end": 880.48,
+      "text": " What does my neighbor know?  Now suppose I made lentils here.  And I expect  suppose my neighbor  has made rice.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=874"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 880.48,
+      "end": 886.72,
+      "text": " And suppose I expect  that I eat it together.  It does not happen.  You can eat it sometimes.  But you understand what I am saying.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=880"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 886.72,
+      "end": 891.72,
+      "text": " So we have to link.  You have to link.  You have to go and  tell the neighbor  that brother will eat together.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=886"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 891.72,
+      "end": 896.72,
+      "text": " I am making lentils.  You make rice.  There will be a handshake here.  So how will that handshake happen?  In HTML,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=891"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 896.72,
+      "end": 901.72,
+      "text": " you will tell  where is your CSS file?  So there is a link tag.  And the reason  not to use notepad",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=896"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 901.72,
+      "end": 906.72,
+      "text": " will also be known here.  As soon as I write a link here.  See here  link colon CSS.  As soon as I select this",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=901"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 906.72,
+      "end": 911.72,
+      "text": " see here  it did half of my work.  Wrote REL is equal to style change.  This notepad  will be visible to me.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=906"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 911.72,
+      "end": 916.96,
+      "text": " And this is  I had to type this manually  in the notepad.  This is the syntax of HTML.  I had to write this.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=911"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 916.96,
+      "end": 921.96,
+      "text": " But here  automatically  it has come.  Now style.css  is my luck.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=916"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 921.96,
+      "end": 926.96,
+      "text": " Its name is also  style.css.  The file and here also  style.css is given.  If its name was harry.css",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=921"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 926.96,
+      "end": 931.96,
+      "text": " then I would have written  harry.css here.  And guess what?  Here my background  has become red.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=926"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 931.96,
+      "end": 936.96,
+      "text": " Now if I want  my text to be white  then I can do  color text white.  I can write",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=931"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 936.96,
+      "end": 941.96,
+      "text": " color white.  Now nothing will work here.  I wrote color white.  So see this is white.  The valid CSS syntax",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=936"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 942.2,
+      "end": 947.2,
+      "text": " will work here.  And we will talk about this  in the next course.  So this is our CSS.  Now how will",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=942"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 947.2,
+      "end": 952.2,
+      "text": " this JavaScript work?  If I write here  alert  and I write here  welcome to",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=947"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 952.2,
+      "end": 957.2,
+      "text": " sigma  web development  course  Assume I wrote  welcome to",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=952"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 957.2,
+      "end": 962.2,
+      "text": " sigma web development  course  then what will happen?  Will the alert come here?  Why didn't the alert come?",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=957"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 962.2,
+      "end": 967.2,
+      "text": " I will tell you  that this syntax  is absolutely correct.  There is no problem  in the syntax.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=962"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 967.2,
+      "end": 972.44,
+      "text": " And I will read  JavaScript very well.  So don't take this tension  what I wrote.  Assume this is",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=967"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 972.44,
+      "end": 977.44,
+      "text": " JavaScript code  which will flash  welcome to  sigma web development  course",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=972"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 977.44,
+      "end": 982.44,
+      "text": " on the screen.  Why didn't it flash?  Is my computer  broken?  No, my computer",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=977"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 982.44,
+      "end": 987.44,
+      "text": " is absolutely fine.  I want to tell you  that I have to  include the script.  And let's include the script",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=982"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 987.44,
+      "end": 992.44,
+      "text": " just before the body.  Okay.  Now as soon as I  include the script here,  I will write",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=987"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 992.44,
+      "end": 997.44,
+      "text": " script.js in src.  How did I write this?  First of all,  I wrote script here.  Okay.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=992"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 997.44,
+      "end": 1002.6800000000001,
+      "text": " First of all,  what did I write here?  Script.  Emmet abbreviation.  What is Emmet?",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=997"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1002.6800000000001,
+      "end": 1007.6800000000001,
+      "text": " Emmet is a plugin  which is built-in  in VS code.  As you select it,  your auto-complete",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1002"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1007.6800000000001,
+      "end": 1012.6800000000001,
+      "text": " will be done.  Now if I am writing  script here  and I am selecting  colon src here,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1007"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1012.6800000000001,
+      "end": 1017.6800000000001,
+      "text": " then it means  that I want to give  a source file here.  If you want,  you can also type it",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1012"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1017.6800000000001,
+      "end": 1022.6800000000001,
+      "text": " manually.  But the suggestions  that are being given here  make your code writing  powers faster.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1017"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1022.6800000000001,
+      "end": 1027.68,
+      "text": " They make you  a wonderful developer  and increase  your powers  so that you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1022"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1027.68,
+      "end": 1032.92,
+      "text": " can't get into trouble.  And as soon as  your as a developer  can be self-sufficient,  src is equal to",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1027"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1032.92,
+      "end": 1037.92,
+      "text": " script.js.  You can see  here.  I have included it.  Now I will come here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1032"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1037.92,
+      "end": 1042.92,
+      "text": " So you see  it has come here.  Welcome to  Sigma Web Development Course.  Everyone write",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1037"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1042.92,
+      "end": 1047.92,
+      "text": " in the comment  that I have become self-sufficient.  Write it  because I know  that your self-sufficiency",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1042"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1047.92,
+      "end": 1052.92,
+      "text": " has been satisfied  by seeing this box.  JavaScript also worked.  CSS was working.  JavaScript also worked.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1047"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1052.92,
+      "end": 1057.92,
+      "text": " Now your self-sufficiency  has been satisfied.  I will reload it.  It will come again.  I will do OK.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1052"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1057.92,
+      "end": 1063.16,
+      "text": " It will stop.  I will tell you  what is JavaScript.  Don't say  that you didn't tell the alert.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1057"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1063.16,
+      "end": 1068.16,
+      "text": " Don't start weirdly.  I will finish HTML  and then CSS  and then JavaScript.  So you don't take",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1063"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1068.16,
+      "end": 1073.16,
+      "text": " any tension.  And along with this,  the best practices  that I am telling you  like this,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1068"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1073.16,
+      "end": 1079.16,
+      "text": " you keep them in mind  because what I am telling you  is coming from my experience.  It is coming from a long time experience  and it will definitely help you.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1073"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1079.16,
+      "end": 1084.16,
+      "text": " Like I said  Live Server  you can use it if you want.  Nothing wrong in that.  Use Live Preview",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1079"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1084.16,
+      "end": 1089.4,
+      "text": " from Microsoft.  OK.  Awesome.  Now I want you all  to write Sigma Batch OP",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1084"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1089.4,
+      "end": 1094.4,
+      "text": " in the comment section.  If everyone is enjoying  the course,  then put Sigma Batch OP  in the comment section.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1089"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1094.4,
+      "end": 1099.4,
+      "text": " It will be fun to see.  Yes, this is a batch.  What happens if it is a free course?  It is a batch.  So write Sigma Course OP",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1094"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1099.4,
+      "end": 1104.4,
+      "text": " with an hashtag.  It will be fun.  Now many people had a comment  in the last video  that how to do this",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1099"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1104.4,
+      "end": 1109.4,
+      "text": " with the mouse wheel.  So you just have to go  to settings.  You have to write mouse wheel  and here you have to",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1104"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1109.4,
+      "end": 1114.4,
+      "text": " check the editor mouse wheel zoom.  Then you press the control  from the mouse wheel.  I have pressed the control here.  As soon as I do this,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1109"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1114.4,
+      "end": 1119.64,
+      "text": " I will be able to zoom in.  And then you can  zoom in.  And if I do the  command palette by right clicking",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1114"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1119.64,
+      "end": 1124.64,
+      "text": " here,  then I can also  toggle the screencast mode  here.  Whatever I will write here,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1119"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1124.64,
+      "end": 1129.64,
+      "text": " you will get to see that.  I have not toggled the screencast  mode in this video  because you already know  what type I am doing.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1124"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1129.64,
+      "end": 1134.64,
+      "text": " Okay.  So I can also toggle  the screencast mode  in this way.  That is, I can turn it on",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1129"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1134.64,
+      "end": 1139.64,
+      "text": " so that you can see  all the things  that I am doing below.  In the last video,  we talked about",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1134"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1139.64,
+      "end": 1144.64,
+      "text": " how websites work  and what we did  was very  easy to understand.  Now I will take the example",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1139"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1144.64,
+      "end": 1149.88,
+      "text": " of iPhone 15 Pro Max.  And I will show you  by ordering  how the client-server  interaction will be",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1144"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1149.88,
+      "end": 1154.88,
+      "text": " whenever a user  orders an iPhone.  Okay.  So you will find it  interesting.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1149"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1154.88,
+      "end": 1159.88,
+      "text": " I will show you here.  So guys,  how does the website  work here?  I have come to explain",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1154"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1159.88,
+      "end": 1164.88,
+      "text": " on apple.com.  Now see,  apple.com is a website.  Okay.  Data must have",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1159"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1164.88,
+      "end": 1169.88,
+      "text": " come from their server  up to here.  Okay.  Whatever these  HTML files are,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1164"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1169.88,
+      "end": 1174.88,
+      "text": " I will click on  pre-order here quickly.  And after this,  I will simply  when I am recording,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1169"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1175.1200000000001,
+      "end": 1181.1200000000001,
+      "text": " it has not even come.  It is saying that  it will come on September 20.  I will select iPhone 15 Pro Max.  Let's take any color.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1175"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1181.1200000000001,
+      "end": 1186.1200000000001,
+      "text": " Let's take black titanium.  What is going on?  Let's take 256 GB.  Let's take no trade-in.  No Apple coverage.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1181"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1186.1200000000001,
+      "end": 1191.1200000000001,
+      "text": " After this,  you see what they did here.  Communication is going on  from their server.  It is going on.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1186"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1191.1200000000001,
+      "end": 1196.1200000000001,
+      "text": " It is going on.  So in short,  this is the HTML CSS JavaScript.  You can see  I have sourced",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1191"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1196.1200000000001,
+      "end": 1201.1200000000001,
+      "text": " its view page here.  So I can see it  like this here.  And this is our  original website",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1196"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1201.1200000000001,
+      "end": 1206.36,
+      "text": " that we were working on.  Now I will check out  here quickly.  I will do continuous guest.  I will show you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1201"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1206.36,
+      "end": 1211.36,
+      "text": " a fun thing.  As soon as I click on  inspect and click on network,  you see 2 and 4 communication  is going on",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1206"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1211.36,
+      "end": 1216.36,
+      "text": " with Apple's servers.  Which means  that here  as I am doing action here,  JavaScript is communicating",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1211"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1216.36,
+      "end": 1221.36,
+      "text": " to the server  and there  appropriate action  server is taking  and sending me data.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1216"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1221.36,
+      "end": 1226.36,
+      "text": " I will say here  I would like to be delivered.  Continuous shipping address.  I will put the name etc.  It will deliver on October 19.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1221"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1226.36,
+      "end": 1231.36,
+      "text": " If shipping comes,  I will tell you.  I will keep the update  for you.  I will keep the update",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1226"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1231.36,
+      "end": 1236.6,
+      "text": " for you.  I will keep the update  for you.  Yes, everything is fine.  Terms and conditions",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1231"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1236.6,
+      "end": 1241.6,
+      "text": " I read it.  I agree.  Place your order.  I agreed.  Place your order.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1236"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1241.6,
+      "end": 1246.6,
+      "text": " Like the video  because I also order  iPhones to explain  web development to you.  Here we have OTP.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1241"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1246.6,
+      "end": 1251.6,
+      "text": " I will confirm OTP  and my purchase  has been done here.  In total,  this happened",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1246"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1251.6,
+      "end": 1256.6,
+      "text": " that I requested  something  from the Apple.com  server.  I said,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1251"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1256.6,
+      "end": 1261.6,
+      "text": " give me an iPhone 15 Pro Max.  Apple.com said  take it bro.  So in this way,  the request",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1256"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1261.6,
+      "end": 1266.84,
+      "text": " was made.  So this kind of communication  between the server  and the client  happens through JavaScript",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1261"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1266.84,
+      "end": 1271.84,
+      "text": " without loading the page.  Like you saw,  I selected an iPhone here.  After that,  I clicked",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1266"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1271.84,
+      "end": 1276.84,
+      "text": " different things.  So how do all those things  happen?  It happens  with the help",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1271"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1276.84,
+      "end": 1281.84,
+      "text": " of JavaScript.  How is the styling?  With the help of CSS.  And all this  written",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1276"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1281.84,
+      "end": 1286.84,
+      "text": " is HTML.  I hope you will remember  this example.  And if the phone comes,  I will definitely show you.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1281"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1286.84,
+      "end": 1291.84,
+      "text": " Otherwise,  many people will say  that it is fake.  I will show you  when this phone comes.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1286"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1292.08,
+      "end": 1297.08,
+      "text": " So this way  your websites work.  How to communicate  with the client server.  I hope you understood",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1292"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1297.08,
+      "end": 1302.08,
+      "text": " from this example.  Tell me in the comment section  if I want to  give away this iPhone.  So what will be",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1297"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1302.08,
+      "end": 1307.08,
+      "text": " the best thing?  So that you also  get to know  that I have done a genuine  giveaway.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1302"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1307.08,
+      "end": 1312.08,
+      "text": " And I am also able to  do a giveaway.  You tell me in the comment section.  I don't know about all this.  So if you have knowledge",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1307"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1312.08,
+      "end": 1317.08,
+      "text": " about this,  then tell me.  Now I want to tell you  where you will get  notes and cheat sheets.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1312"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1317.08,
+      "end": 1322.32,
+      "text": " If you go to  codewithadari.com  slash notes,  then you will get  all the cheat sheets.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1317"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1322.32,
+      "end": 1327.32,
+      "text": " You can download  the notes here.  Along with that,  you will get  cheat sheets below.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1322"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1327.32,
+      "end": 1332.32,
+      "text": " For example,  if I want to  access the HTML cheat sheet,  then I can  access the cheat sheet here.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1327"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1332.32,
+      "end": 1337.32,
+      "text": " There are all  the elements here.  But now in this course,  you guys stay,  I will tell you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1332"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1337.32,
+      "end": 1342.32,
+      "text": " about all the elements.  Along with that,  if you want to download  my handwritten  notes from HTML,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1337"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1342.32,
+      "end": 1347.32,
+      "text": " then you can  download the PDF notes from here.  I have written this handwritten.  You will enjoy reading.  In this course,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1342"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1347.32,
+      "end": 1352.56,
+      "text": " I will tell you everything.  But if you download  these notes,  then you will enjoy.  I will make your",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1347"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1352.56,
+      "end": 1357.56,
+      "text": " learning experience  so good that  you will also say  that it was fun.  Now I want",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1352"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1357.56,
+      "end": 1362.56,
+      "text": " all of you to do one thing.  Put the initial review  of this course  in this first video.  I want all of you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1357"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1362.56,
+      "end": 1367.56,
+      "text": " to go in this video  and in this video  and post the initial review  in the comment section.  I want you to",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1362"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1367.56,
+      "end": 1372.56,
+      "text": " write in the comment section  below  of this first video  that how did you  like this course",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1367"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1372.56,
+      "end": 1377.56,
+      "text": " and give me stars  out of 5.  Tell me by rating it  as a star.  We are talking about",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1372"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1377.56,
+      "end": 1382.8,
+      "text": " the initial review.  I know that the course  is not that good.  But what quality  and all these things",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1377"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1382.8,
+      "end": 1387.8,
+      "text": " I want to see  and comment on it  in the first video.  So if you do this work,  I will feel good from my heart.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1382"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1387.8,
+      "end": 1392.8,
+      "text": " Go and rate this course  in the first video.  Now we will talk  about how you can  earn money",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1387"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1392.8,
+      "end": 1397.8,
+      "text": " after doing this course.  So the first way  to earn money  from web development  is very simple.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1392"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1397.8,
+      "end": 1402.8,
+      "text": " You do freelance.  Freelance as a web developer.  You make websites.  There are many websites  that you can make.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1397"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1402.8,
+      "end": 1407.8,
+      "text": " And by making them,  you will get  a lot of good money.  Many people  integrate APIs",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1402"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1407.8,
+      "end": 1413.04,
+      "text": " and by integrating  them, many people  earn good money.  Many people say  that chat gpt has come.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1407"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1413.04,
+      "end": 1418.04,
+      "text": " Now chat gpt has come.  Then nothing will happen.  Everything is done by chat gpt.  But this is not true.  Making a website for you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1413"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1418.04,
+      "end": 1423.04,
+      "text": " is easier for me  to make chat gpt.  And when you use  chat gpt,  then you become",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1418"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1423.04,
+      "end": 1433.04,
+      "text": " a giga chat developer.  So use chat gpt  as much as possible.  And you can save  your time.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1423"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1433.04,
+      "end": 1438.04,
+      "text": " In fact,  I tell the truth,  since chat gpt came,  I have been able to  deliver more to my freelancing clients.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1433"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1438.28,
+      "end": 1443.28,
+      "text": " All the websites  that I had to make  from the beginning,  I do more than half  of the work with chat gpt.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1438"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1443.28,
+      "end": 1448.28,
+      "text": " And the work that  chat gpt is not able to do,  I do it.  Finally, I do the package  and give it.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1443"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1448.28,
+      "end": 1453.28,
+      "text": " And I don't have to answer  anyone that what I used  chat gpt,  what I did without chat gpt.  You can deliver",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1448"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1453.28,
+      "end": 1458.28,
+      "text": " everything very easily.  Use chat gpt.  Chat gpt can't do  everything.  You have to",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1453"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1458.28,
+      "end": 1463.28,
+      "text": " use chat gpt  and after that  you have to make  websites and  deliver them to",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1458"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1463.28,
+      "end": 1468.52,
+      "text": " freelancing clients.  Where will you  meet freelancing clients?  You can go to  Fiverr.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1463"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1468.52,
+      "end": 1473.52,
+      "text": " Yes, I know that  it is a little difficult  to get work on Fiverr.  But you can go  to the buyer request.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1468"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1473.52,
+      "end": 1478.52,
+      "text": " There is an option  of buyer request in Fiverr.  Search it.  If you go here,  you can match",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1473"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1478.52,
+      "end": 1483.52,
+      "text": " with the buyer.  If I show you images,  then here  some buyer requests  come like this.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1478"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1483.52,
+      "end": 1488.52,
+      "text": " You can give your pitch  to these people that  I have done this  and I have to do this work.  You will get work.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1483"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1488.52,
+      "end": 1493.52,
+      "text": " It will start from here.  As your gig  gets good reviews,  you will earn more money.  Like suppose",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1488"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1493.52,
+      "end": 1498.76,
+      "text": " you have a gig  on Fiverr.  No one has ever  given you a gig.  You will never get",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1493"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1498.76,
+      "end": 1503.76,
+      "text": " work easily.  But if on your gig,  suppose 5-6 people  have ordered  and everyone has",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1498"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1503.76,
+      "end": 1508.76,
+      "text": " given you 5 stars,  then things become  easy for you from there.  Because the buyers  want the credibility",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1503"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1508.76,
+      "end": 1513.76,
+      "text": " of the people  they are getting work  from to be good.  Because they also  need work.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1508"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1513.76,
+      "end": 1518.76,
+      "text": " And they are also  giving money.  So they also want  that their money  should not be wasted.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1513"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1518.76,
+      "end": 1523.76,
+      "text": " So here Fiverr,  Upwork and many  other freelancing websites  on which you can  try.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1518"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1523.76,
+      "end": 1529.0,
+      "text": " But before trying,  you should know  that the people  who are using  the latest technologies,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1523"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1529.0,
+      "end": 1534.0,
+      "text": " suppose you want  to integrate  the chat GPT API,  you will get  such work.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1529"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1534.0,
+      "end": 1539.0,
+      "text": " No one will tell you  to make a design  and give it to me.  Make a simple  nav bar and give it to me.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1534"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1539.0,
+      "end": 1544.0,
+      "text": " I am saying that  most of the clients  do not do this work.  Nowadays everyone  does chat GPT.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1539"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1544.0,
+      "end": 1549.0,
+      "text": " You can earn  more money  by making  complex websites.  Then the second thing",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1544"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1549.0,
+      "end": 1554.0,
+      "text": " is get a job  as a web developer.  If you get a job  as a web developer,  if you become",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1549"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1554.0,
+      "end": 1559.24,
+      "text": " a good web developer,  then you will get  a lot of money.  You will get  a lot of money.",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1554"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1559.24,
+      "end": 1564.24,
+      "text": " And your  back edge  is also increasing.  People are earning  more money in coding",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1559"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1564.24,
+      "end": 1569.24,
+      "text": " than they used  to earn before.  If you are a  very basic developer,  then yes,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1564"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1569.24,
+      "end": 1574.24,
+      "text": " chat GPT will  replace you.  After this,  you can sell  your services",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1569"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1574.24,
+      "end": 1579.24,
+      "text": " by making  an Instagram account.  In the Instagram  account,  if you upload",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1574"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1579.24,
+      "end": 1584.24,
+      "text": " any kind of  images and  you take  a little  traction,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1579"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1584.48,
+      "end": 1589.48,
+      "text": " then you can  start with  very less  following.  After this,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1584"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1589.48,
+      "end": 1594.48,
+      "text": " you can give  one-to-one help to  people.  You will also get  this from",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1589"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1594.48,
+      "end": 1599.48,
+      "text": " clients' Instagram  and social media.  At the end of  your reel,  you can say that",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1594"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1599.48,
+      "end": 1604.48,
+      "text": " if you want to  learn anything,  then you come  to my DM.  I will tell you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1599"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1604.48,
+      "end": 1609.48,
+      "text": " what I will tell you  and you  get clients  very easily here.  Trust me",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1604"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1609.48,
+      "end": 1614.72,
+      "text": " if it  helps you.  After this,  you can sell  your services",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1609"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1614.72,
+      "end": 1619.72,
+      "text": " on the website.  If you  get paid for  this course,  then definitely",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1614"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1619.72,
+      "end": 1624.72,
+      "text": " everyone would  pay for this course.  Now it is not necessary  that you have to  make a course",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1619"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1624.72,
+      "end": 1629.72,
+      "text": " on web development.  There are  many things in  web development.  For example,",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1624"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1629.72,
+      "end": 1634.72,
+      "text": " how to use  chat GPT API,  make a course  on that.  Make a course",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1629"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1634.72,
+      "end": 1639.72,
+      "text": " on chat GPT.  If you  come to make  a website,  then it will",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1634"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1639.72,
+      "end": 1644.96,
+      "text": " be easy  to sell  courses for  free.  I have",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1639"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1644.96,
+      "end": 1649.96,
+      "text": " made a  course on  this.  For example,  I have",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1644"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1649.96,
+      "end": 1654.96,
+      "text": " made  a course on  chat GPT.  I will  tell you",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1649"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1654.96,
+      "end": 1659.96,
+      "text": " more about  this course  in the next  movie.  Let's",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1654"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1659.96,
+      "end": 1664.96,
+      "text": " get started.  So  according to  the rules,  I have",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1659"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1664.96,
+      "end": 1669.96,
+      "text": " not given  any  clarification  here.  This",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1664"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1669.96,
+      "end": 1682.96,
+      "text": " is a  free course  I am aware of the fact that we are taking a slow start but remember my words  we will raise the bar like anything  so access the playlist, like the video, and give your village land to me",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1669"
+    },
+    {
+      "number": "2",
+      "title": "Your First HTML Website",
+      "start": 1682.96,
+      "end": 1706.96,
+      "text": " thank you so much guys for watching this video and I will see you next time  Thanks for watching",
+      "youtube_link": "https://youtu.be/kJEsTjH5mVg?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=1682"
+    }
+  ],
+  "text": " Thanks for watching"
+}

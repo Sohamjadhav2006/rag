@@ -1,0 +1,653 @@
+{
+  "chunks": [
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 0.0,
+      "end": 24.64,
+      "text": " In today's video, we will learn about Core Web Vitals and why they are important.  Like this video and keep your energy high.  The thing is that your website should run on all devices in iPad, iPhone, Android, Surface Pro 4.  Because we have to give a good experience to all users through our website.  In this video, we will also learn that there is a hidden tool in Chrome called Lighthouse.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=0"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 24.64,
+      "end": 44.96,
+      "text": " And how you can use it to enhance your website.  So write in the comment section below, Sigma Batch OP.  Let's go to the computer screen.  Let's roll the intro.  So guys, I have come to my computer screen.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=24"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 44.96,
+      "end": 60.96,
+      "text": " And now I will make a new folder named Video 6.  Video 6.  And here in Video 6, I will open VS Code as always.  And the thing I am going to tell you today is very important from the aspect of SEO.  First of all, I want to tell you what SEO is.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=44"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 60.96,
+      "end": 73.44,
+      "text": " SEO stands for Search Engine Optimization.  If you see any website, it has SEO in it.  Let's take the example of Amazon.in.  I opened Amazon.in.  So Amazon.in wants this website to be loaded as soon as possible.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=60"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 73.44,
+      "end": 86.72,
+      "text": " So that their products can come in search.  Google is a search engine.  Google's responsibility is to show the best pages to the users.  So Google wants to show only those pages that are fast.  They present the information very well.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=73"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 86.72,
+      "end": 100.48,
+      "text": " And along with that, there are some things in them that the user has a good experience.  For example, let's say there are two pages.  One page has told about dog food.  The other page has also told exactly the same thing about dog food.  But the page 2 of these two is loaded very fast.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=86"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 100.48,
+      "end": 109.44,
+      "text": " It loads well.  So Google will give it more preference.  Along with that, there are core web vitals.  Which Google considers to rank two pages.  First of all, it is content.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=100"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 109.44,
+      "end": 124.08,
+      "text": " Content is the most important.  What do you have on one page?  If your content is good, then maybe your website can rank without core web vitals.  But if you are competing with a page that has presented almost similar quality content.  Then your core web vitals will be seen.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=109"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 124.08,
+      "end": 136.32,
+      "text": " And if your core web vitals are good, then you will be given preference.  So the first thing that comes in the core web vitals is your CLS.  You see this video here.  Which I have run from web.dev website.  You will see that someone comes to your website.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=124"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 136.32,
+      "end": 146.48,
+      "text": " And he is trying to cancel the order here.  And by mistake, the time he canceled, this thing above became visible.  And he shifted the layout.  And the order is complete.  But the user wanted the order to be incomplete.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=136"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 146.48,
+      "end": 155.44,
+      "text": " He wanted to click on no.  In this case, the user experience is very bad.  And as you saw in this video, it should not be like this.  That's why our CLS should be as low as possible.  Now what is the definition of CLS?",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=146"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 155.44,
+      "end": 164.32,
+      "text": " Cumulative layout shift means.  How much is shifting while the page is loading.  Assume that you have loaded the page.  And first of all, you get to see this.  It was above first.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=155"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 164.32,
+      "end": 172.32000000000002,
+      "text": " And after that, when this keyterm part was loaded.  So everything shifted down.  Layout should not shift.  If you put width and height in images.  Then the layout will not shift.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=164"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 172.32000000000002,
+      "end": 183.84,
+      "text": " The next metric we are going to talk about is LCP.  And LCP stands for Largest Contextual Paint.  This means that if the user is viewing a page.  Then the biggest element on it.  For example, the biggest part in this is this image.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=172"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 183.84,
+      "end": 191.28,
+      "text": " How long is it loading?  Means the whole page will be loaded.  But the biggest looking element.  Which is the most important.  How long is it loading?",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=183"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 191.28,
+      "end": 203.04,
+      "text": " Assume that web.dev and Google.  A good LCP score should be 2.5 seconds.  Means the biggest element should be loaded in 2.5 seconds.  After this comes the third metric which is FID.  Which stands for First Input Delay.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=191"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 203.04,
+      "end": 211.92,
+      "text": " First Input Delay means that.  If any user has clicked on any input element.  Like on a button or any type of input.  On a page.  So how long does that input process?",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=203"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 211.92,
+      "end": 221.68,
+      "text": " For example, if you click on a button.  So how long does that button click browser process?  And if we assume Google and web.dev.  So in less than 100 milliseconds.  Your input should start processing.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=211"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 221.68,
+      "end": 229.44,
+      "text": " So these were the three core web vitals.  Which are very important.  For your information.  These core web vitals are updated.  But these three are very important.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=221"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 229.44,
+      "end": 237.04,
+      "text": " And you should know.  Now I will show you.  What is the lighthouse report?  And why do they generate?  And how will these three core web vitals get value from there?",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=229"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 237.04,
+      "end": 246.16,
+      "text": " So I will tell you here.  If you will inspect by right clicking.  And you may be coming to the right side.  So you can click here and bring it down.  By clicking here.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=237"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 246.16,
+      "end": 256.16,
+      "text": " If you want, you can bring it here again.  And by clicking here, you can bring it down.  I prefer it down.  Because I am used to seeing it down from the starting.  Now you can see the option of lighthouse here.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=246"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 256.16,
+      "end": 267.76,
+      "text": " Lighthouse basically generates a report for you.  And tells you.  What can be improved in your HTML page?  For example, if I want to see here on mobile.  How mobile users see my website.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=256"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 267.76,
+      "end": 275.2,
+      "text": " So I will click on mobile.  Or I will click on desktop.  I will close this tab.  I will click on mobile.  And I will click on analyze page load.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=267"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 275.2,
+      "end": 280.8,
+      "text": " So this will generate a report.  Lighthouse for me.  You can see here.  That a report has been generated.  In this, performance, accessibility.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=275"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 280.8,
+      "end": 289.44,
+      "text": " Best practices, SE and PWA.  All these things are being shown.  Now here you can see.  Some things are shown in red.  That is, the scope of improvement is in the page.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=280"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 289.44,
+      "end": 298.0,
+      "text": " Now here you are telling.  That size your images properly.  Your website can be loaded 2.7 seconds fast.  So all these suggestions.  They are given to you.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=289"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 298.0,
+      "end": 307.20000000000005,
+      "text": " Through lighthouse.  And if you incorporate these suggestions.  Then your website will be loaded quite well.  And will give a good experience to the user.  Now you can see here.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=298"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 307.20000000000005,
+      "end": 315.20000000000005,
+      "text": " Image elements do not have explicit width and height.  So you should give width and height.  The image width and height attribute.  Which we read in the last video.  That should be used.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=307"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 315.20000000000005,
+      "end": 324.40000000000003,
+      "text": " So that in your browser.  There is a reserve space.  When we set width and height in HTML.  Then there is a reserve space in the browser.  Otherwise if we do not set height and width.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=315"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 324.40000000000003,
+      "end": 332.40000000000003,
+      "text": " Then what will happen.  That our browser.  It will not know how much space to reserve.  And as long as the CSS will load.  All the page will shift from bottom to top.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=324"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 332.40000000000003,
+      "end": 340.16,
+      "text": " So we don't want our page.  Shift in loading time.  If our page starts shifting.  So if we are going to click here.  So by mistake when it shifts.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=332"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 340.16,
+      "end": 349.28000000000003,
+      "text": " Then we can click here.  Suppose an image was going to come here.  I am going to click here.  And as long as I clicked.  During that time this image was loaded.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=340"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 349.28000000000003,
+      "end": 356.16,
+      "text": " And all this content shifted down.  And instead of clicking here by mistake.  I will click on the image.  This is called cumulative layout shift.  So this kind of shift.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=349"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 356.16,
+      "end": 363.36,
+      "text": " Is not preferred at all.  Google does not prefer at all.  And this should be the least.  You can see that the space is very less.  Cumulative layout shift.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=356"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 363.36,
+      "end": 371.36,
+      "text": " So we have to keep the cumulative layout shift.  So that our user.  Can get a very good experience.  So here are many more suggestions.  And this is for our mobile.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=363"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 371.36,
+      "end": 379.36,
+      "text": " Now we can generate a desktop report.  And the desktop report will be generated.  So as you can see.  That it has generated a report.  92 marks in performance.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=371"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 379.36,
+      "end": 385.59999999999997,
+      "text": " 100 out of 82 in accessibility.  75 in best practices.  75 in SEO.  Now you see here.  That the good things.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=379"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 385.59999999999997,
+      "end": 392.0,
+      "text": " That have been told here.  And the scope of improvement.  Lighthouse tells you.  So this is a hidden tool.  Which we should all use.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=385"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 392.0,
+      "end": 398.96,
+      "text": " Now I want to tell you.  About meta tags and meta description.  So what I will do here.  That I will make a new file.  I will name it index.html.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=392"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 398.96,
+      "end": 405.91999999999996,
+      "text": " And after making one html file.  The first SEO element.  I want to tell you.  That is title.  If your title is reflecting.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=398"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 405.91999999999996,
+      "end": 413.52,
+      "text": " The content of your page.  Then this is a very good SEO practice.  Whenever your page is changing.  You make the title in such a way.  That it reflects the content of your page.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=405"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 413.52,
+      "end": 420.56,
+      "text": " Because if you want your website on Google.  Then it will come according to the title.  The index of Google.  Like you guys write here.  Code with Harry.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=413"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 420.56,
+      "end": 426.79999999999995,
+      "text": " Okay.  And you write like this.  So this thing is the title of the page.  And this is the title of the page.  Which is put by the YouTube people.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=420"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 426.79999999999995,
+      "end": 432.48,
+      "text": " This is the title of the page.  Which is put by the Instagram people.  This is the title of the page.  Which is put by the GitHub people.  So if the title is put on the page.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=426"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 432.48,
+      "end": 442.0,
+      "text": " And the title actually.  Which reflects the content of your page.  Truly.  Then your website will rank very well.  Now let's say I put content here.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=432"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 442.0,
+      "end": 450.8,
+      "text": " And I put an h1.  And I write here Harry.  And after that let's say.  I write a paragraph here.  And I write here lorem 45.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=442"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 450.8,
+      "end": 456.88,
+      "text": " Now why did I write lorem 45?  I will do view word wrap.  Why did I write 45?  This is a very good question.  I wrote 45 because.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=450"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 456.96,
+      "end": 463.84,
+      "text": " Because I am lazy and 4 and 5 are around.  So I wrote 4 and 5.  I also write 23.  Because they are also around.  Okay, so there is no other reason.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=456"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 463.84,
+      "end": 470.24,
+      "text": " Now I will quickly preview it here.  I will open in browser here.  So see it looks like this.  Now this document is written.  If I left it like this.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=463"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 470.24,
+      "end": 478.48,
+      "text": " Then this will not be a good SEO practice.  I will write here about Harry.  And I will write here code with Harry.  Which is also my website.  Okay, and what will happen by doing this?",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=470"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 478.48,
+      "end": 489.76,
+      "text": " That my title will reflect here.  As you can see.  So what will happen by doing this kind of work?  That my website will have more chances to be seen in Google.  By inspecting I will also take out its lighthouse report.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=478"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 489.76,
+      "end": 498.56,
+      "text": " And I will see what are the scope of improvements.  Now its lighthouse report will be very good.  Because there is nothing in it that I should improve.  But when I will put images etc.  Then I will get suggestions.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=489"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 498.56,
+      "end": 507.68,
+      "text": " Like put width.  Put height.  Along with that I will tell you one more trick.  So that you can see your website in any mobile.  You will find out.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=498"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 507.68,
+      "end": 515.6,
+      "text": " So you guys click here.  Can you see the computer here?  Click on it.  And after that if you choose responsive in it.  So you can see that.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=507"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 515.6,
+      "end": 524.4,
+      "text": " How will your website look in any kind of device.  So your website is responsive or not.  You can see it here by doing this.  If you want to see in a specific device.  Like in iPhone 12 Pro.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=515"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 524.4,
+      "end": 536.8,
+      "text": " Your website will look like this in iPhone 12 Pro's resolution.  Now don't say why there is no 15 or 16.  12 Pro means a big iPhone device.  Understand okay.  In such a big device.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=524"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 536.8,
+      "end": 545.92,
+      "text": " How will your website look?  This is just being told to you guys.  So now you guys can see here.  How it will look in Surface Pro 7.  By clicking here.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=536"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 545.92,
+      "end": 555.92,
+      "text": " How it will look in Google phones.  You can also find out.  And if you want to take a general view.  Your website in a responsive device.  In any kind of device.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=545"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 555.92,
+      "end": 565.92,
+      "text": " Like in iPad.  Now if you don't have a device here.  Then choose responsive and find the approximate width of your device.  In total, your website should look good in all the width devices.  How does this happen?",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=555"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 565.92,
+      "end": 575.92,
+      "text": " I will tell you later in this course.  Now if you click here again.  Then it will stop.  As soon as it stops, your website looks like this.  I will close it.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=565"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 575.92,
+      "end": 585.92,
+      "text": " Now I will tell you about Meta text.  Here I will write like Meta.  So look here Meta DESC is coming.  I will click on Meta DESC.  And here I can give the description of my page.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=575"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 585.92,
+      "end": 595.92,
+      "text": " Suppose I give.  This is a page about.  This is a page which contains description.  Description.  About Harry.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=585"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 595.92,
+      "end": 605.92,
+      "text": " Okay.  And here you can write whatever page content you have.  As I show you.  Suppose you write what is SEO.  What is SEO.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=595"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 605.92,
+      "end": 615.92,
+      "text": " And here you can see this page has this Meta description.  SEO stands for this.  Now it is not necessary that a search engine will parse your Meta DESC.  It will not do this.  If it likes it, it will parse it.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=605"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 615.92,
+      "end": 625.92,
+      "text": " And keep your Meta DESC here.  If you have not put Meta DESC.  Then Meta DESC can be generated from your content.  So this is the responsibility of the search engine.  What will Bing do? What will Google do? We don't know.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=615"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 625.92,
+      "end": 635.92,
+      "text": " But from our side our page should be absolutely to the point.  Especially if we are writing a blog.  And we want our page to rank organically.  So here you can see that I have put Meta DESC.  Now a Meta keyword used to work a lot.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=625"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 635.92,
+      "end": 645.92,
+      "text": " But now the Meta keyword.  That.  Has been deprecated.  Meta keyword is not used at all.  The code of Meta keywords looks like this.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=635"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 645.92,
+      "end": 655.92,
+      "text": " But it is believed that Meta keywords.  They do not rank at all in SEO.  Because people abuse it more.  Suppose you have written a page about pets.  And you have written what is SEO in Meta keyword.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=645"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 655.92,
+      "end": 665.92,
+      "text": " Then your page will rank.  I will correct the double quotes here.  So if I put Meta keyword here.  It is not necessary that the search engine will consider it.  Some search engines do this.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=655"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 665.92,
+      "end": 675.92,
+      "text": " They do not believe in Meta keywords.  They say that we do not want to see your Meta keywords.  So Meta keywords used to work a lot.  But now it does not work.  Now the content of your page is being parsed.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=665"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 675.92,
+      "end": 685.92,
+      "text": " And now the time of AI is coming.  So your content will be understood.  Accordingly, it will be ranked.  Now if you want to know exactly about these core web vitals.  If I inspect it.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=675"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 685.92,
+      "end": 695.92,
+      "text": " And if I go to Lighthouse.  And if I take out the report for the desktop.  Then some core web vitals come.  Like LCP, FCP.  First Contextual Paint.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=685"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 695.92,
+      "end": 705.92,
+      "text": " Now you can see everything is 100.  Now there was not much in this content.  But you can see here.  What are you doing?  Pages with web socket cannot enter back forward cache.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=695"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 705.92,
+      "end": 715.92,
+      "text": " There is a web socket in this.  Because we are using this extension.  Live preview.  This is a very good page.  PWA is Progressive Web Apps.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=705"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 715.92,
+      "end": 725.92,
+      "text": " Which we will not make now.  But you can see here.  First Contextual Paint, Largest Contextual Paint, Total Blocking Time, Cumulative Layout Shift, Speed Index.  If you want to know about all this.  Like what is First Contextual Paint?",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=715"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 725.92,
+      "end": 735.92,
+      "text": " What is the user going to see?  How long has it been painted on the browser?  So if you want to see this.  Then you have to go to web.dev.  Web.dev is a very good website.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=725"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 735.92,
+      "end": 745.92,
+      "text": " Which talks about all these things.  And you can see here.  You can learn about all these things.  What is PWA?  If you want to learn PWA.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=735"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 745.92,
+      "end": 755.92,
+      "text": " About all these things.  There is a lot of good content here.  But we will focus on HTML, CSS, JavaScript.  And make websites in this course.  This thing should have come to you.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=745"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 755.92,
+      "end": 765.92,
+      "text": " Because of which I told you about it.  If you have not yet accessed the Sigma Web Development Series.  Then do access it.  Access the playlist.  Bookmark it.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=755"
+    },
+    {
+      "number": "6",
+      "title": "SEO and Core Web Vitals in HTML",
+      "start": 765.92,
+      "end": 773.92,
+      "text": " Click on the star and click here to save.  That's all for now.  Thank you so much for watching this video.  And I will see you next time.",
+      "youtube_link": "https://youtu.be/CyRlWlaJnTY?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=765"
+    }
+  ],
+  "text": " And I will see you next time."
+}

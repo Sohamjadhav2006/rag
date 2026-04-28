@@ -1,0 +1,1029 @@
+{
+  "chunks": [
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 0.0,
+      "end": 22.6,
+      "text": " In today's video, we will learn how audio, video and media elements are used in HTML.  We saw in our very first video that we can embed videos in HTML.  Today I will tell you how the video is auto-played,  how to keep a muted video and how you can enable and disable the video controls.  Along with that, we will also see very closely about audio,",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=0"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 22.6,
+      "end": 35.2,
+      "text": " how media can be shown in an overall page.  So do like this video and stay in this video  because the examples I have used for video tags are very amazing.  Let's go to the video screen.  Let's roll the intro.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=22"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 35.2,
+      "end": 56.8,
+      "text": " Intro  Friends, this time I have made a folder named video10  and I will not waste your time by opening open with code by right-clicking and shifting.  In fact, I will make it in index.html.  And the topic of today's video is video.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=35"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 56.8,
+      "end": 75.6,
+      "text": " How to play a video, how to put a video in an HTML file,  how to put audio, how to put media.  So adding a video is very straightforward.  I will copy it here, which is our video tag.  It has an src attribute and it has some other attributes",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=56"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 75.6,
+      "end": 85.8,
+      "text": " which I will discuss with you.  But first of all, I want to tell you here that video src is equal to  you will write here like this.  So if you have video.mp4, it will play.  I have video.mp4.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=75"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 85.8,
+      "end": 96.8,
+      "text": " So let's see here.  I have put it here with control and I will click here and preview it.  And you can see here that this video has come.  Okay, now it's a very big video.  So what can I do?",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=85"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 96.8,
+      "end": 108.8,
+      "text": " I can give its width.  So I can say here width is equal to 555 pixels.  And as soon as I do 555 pixels, in fact, I don't need to write px.  I will only do 555.  Like we don't need to write px in the image.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=96"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 108.8,
+      "end": 120.4,
+      "text": " Here too we will not need to write px.  So as soon as I did width is equal to 555,  in fact, I do one thing.  I do height is equal to 555 so that it becomes smaller.  In fact, I make it smaller.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=108"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 120.4,
+      "end": 127.4,
+      "text": " I make it 255.  And you see it came here.  Okay, now I play it because I have put control.  I can play it.  What did you say?",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=120"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 127.4,
+      "end": 138.4,
+      "text": " What name did you say?  Where did you go in the US?  I have gone to many places in the US.  Tell me the name.  So what is it that you can play the video like this.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=127"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 138.4,
+      "end": 146.4,
+      "text": " Now here are some attributes of the video tag.  See, it is very simple to use the video tag.  You should have a video.  You have given the path of the video.  After that you have given the controls.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=138"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 146.4,
+      "end": 152.4,
+      "text": " So these controls will come to you.  You can download it.  You can do full screen.  You can do mute.  You can do picture in picture.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=146"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 152.4,
+      "end": 161.4,
+      "text": " All this is automatically provided by your browser.  But let me tell you about some attributes.  The first attribute is src.  So you know that put the video here.  The name of the video file is src.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=152"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 161.4,
+      "end": 174.4,
+      "text": " This video file can also come from the external URL.  You understand that if I have uploaded a video on Amazon S3 or somewhere else.  So I can also put the URL there.  It is not necessary that the file is in your computer.  It can be on your server.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=161"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 174.4,
+      "end": 185.4,
+      "text": " It can also come from the third party.  Now what does the controls do?  Adds video controls like play, pause and volume.  Which we saw here in the video of Bhupendra Jogi.  That you are getting to see the controls here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=174"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 185.4,
+      "end": 195.4,
+      "text": " Now what is this thing?  The browser automatically sees what the control ads will be in your video.  What will not be.  Then see what will autoplay do?  It will automatically play as soon as the page is loaded.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=185"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 195.4,
+      "end": 205.4,
+      "text": " So if I put autoplay here.  Suppose I put autoplay here.  Okay.  See what is happening here.  So you can see that it is autoplay here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=195"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 205.4,
+      "end": 221.4,
+      "text": " So I will remove autoplay from here.  And our next attribute is loop.  That is, once our video is played, it will loop.  Like I show you.  So it started again.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=205"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 221.4,
+      "end": 232.4,
+      "text": " Once I finished it, it started again.  So this loop works like this.  The next attribute is muted.  Muted mutes the video.  So if I write here muted.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=221"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 232.4,
+      "end": 244.4,
+      "text": " Sometimes we want the video to be muted.  In fact, when I add videos here on codewithhari.com.  And I demonstrate something like downloading VS Code or something.  So I use the muted attribute.  Because I don't want when I record a video.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=232"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 244.4,
+      "end": 252.4,
+      "text": " If there is any background noise, you can hear it.  For example, I want to show you that this is the element.  So I will make a video by scrolling like this.  I will highlight it like this.  So I don't need audio in it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=244"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 252.4,
+      "end": 261.4,
+      "text": " So I mute it.  So you can use the muted attribute in your website.  Then the poster.  The poster is very important.  So I have an image here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=252"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 261.4,
+      "end": 271.4,
+      "text": " Download.jpg.  If I write here, poster is equal to.  And I write download.jpg.  So you see, it will look something like this.  This is how the poster looks.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=261"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 271.4,
+      "end": 277.4,
+      "text": " Then I will play.  So the video will play.  So in a way, the thumbnail.  You saw the thumbnail of the YouTube video.  This is exactly the same.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=271"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 277.4,
+      "end": 287.4,
+      "text": " This is the poster attribute.  So you can use all these attributes.  You know that the width and height specify the dimension of the video.  Like I added both width and height here.  You saw.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=277"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 287.4,
+      "end": 298.4,
+      "text": " So I hope you understood this thing.  Now the thing I want to tell you after this is audio.  So this is for all the attributes of your video.  It is very straightforward.  I want you to make a website.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=287"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 298.4,
+      "end": 306.4,
+      "text": " Which I am going to give you at the end of this video.  In quick quiz.  So listen to the quick quiz.  In fact, I will put the heading here.  Quick quiz.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=298"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 306.4,
+      "end": 313.4,
+      "text": " Okay.  So that I don't forget.  I will give you this now.  And this is going to be a very fun quiz.  And everyone must solve it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=306"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 313.4,
+      "end": 323.4,
+      "text": " But before that.  As soon as you write audio, src comes here.  And I have to put src in sachin.mp3.  So as soon as I put sachin.mp3.  Now see here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=313"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 323.4,
+      "end": 331.4,
+      "text": " I will reload it.  And there is no audio here.  Which is strange.  Let's see what the problem is here.  I put src is equal to.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=323"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 331.4,
+      "end": 338.4,
+      "text": " I have to write controls here too.  So if I don't write controls, I won't see the audio.  See now the audio has come.  I can see the controls here.  I can also set its volume.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=331"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 338.4,
+      "end": 345.4,
+      "text": " I play this audio.  Sachin, what is in sachin?  It's a bad sachin.  Okay.  So this is our audio.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=338"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 345.4,
+      "end": 350.4,
+      "text": " If I mute it and run it, it won't work.  And I can also increase it further.  It's a bad sachin.  Okay.  You people have seen.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=345"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 350.4,
+      "end": 358.4,
+      "text": " So this is audio named sachin.mp3.  Now what we will do.  That we will see some attributes of this audio.  You know src.  Source of the video file.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=350"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 358.4,
+      "end": 364.4,
+      "text": " Okay.  Then after this, you know the controls.  Play, pause and volume.  Which we just saw.  What will autoplay do?",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=358"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 364.4,
+      "end": 369.4,
+      "text": " It will automatically play it.  If I have here.  Autoplay.  Sachin, what is in sachin?  It will automatically play it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=364"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 369.4,
+      "end": 375.4,
+      "text": " It's a bad sachin.  Okay.  So what does autoplay do?  It automatically plays our audio.  After this.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=369"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 375.4,
+      "end": 381.4,
+      "text": " The next attribute is loop.  What will loop do?  It will repeat it.  If I want to loop it.  So I have autoplayed it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=375"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 381.4,
+      "end": 387.4,
+      "text": " Now I will loop it.  Sachin, what is in sachin?  It's a bad sachin.  Once.  Sachin, what is in sachin?",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=381"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 387.4,
+      "end": 392.4,
+      "text": " Second time.  It's a bad sachin.  So you saw it was repeated.  Means it was played once.  Then it was played again.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=387"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 392.4,
+      "end": 397.4,
+      "text": " Because it is looped.  So you saw this thing.  Sachin.mp3 looped.  Means it was played once.  Then it was played.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=392"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 397.4,
+      "end": 402.4,
+      "text": " Then it was played.  Sachin, what is in sachin?  It was repeated.  Because this mp3.  Will be played again and again.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=397"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 402.4,
+      "end": 407.4,
+      "text": " So there are many cases.  When you want.  This mp3 to be repeated.  Okay.  So if you want.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=402"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 407.4,
+      "end": 412.4,
+      "text": " Your mp3 to be repeated.  Then you can use it.  Now after this.  Muted.  What will it do?",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=407"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 412.4,
+      "end": 417.4,
+      "text": " It will mute the audio.  And definitely.  You will hear.  The sound.  It will be muted.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=412"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 417.4,
+      "end": 422.4,
+      "text": " So you can hear.  The sound.  So you can hear.  So you can hear.  So you can hear.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=417"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 422.4,
+      "end": 427.4,
+      "text": " And definitely.  You don't want.  By default.  Your audio to be muted.  In most of the cases.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=422"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 427.4,
+      "end": 432.4,
+      "text": " But.  Sometimes we want.  That.  The audio is muted.  And we can say here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=427"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 432.4,
+      "end": 437.4,
+      "text": " To the user.  Brother, whoever wants to hear.  Unmute.  Sachin, what is it?  When do we do this?",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=432"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 437.4,
+      "end": 442.4,
+      "text": " Which are multiple audios.  You want to show 5-6 audios at once.  You can mute them.  Your user can play.  Unmute.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=437"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 442.4,
+      "end": 447.4,
+      "text": " And see.  Okay.  So.  You have control in your hand.  If you want.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=442"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 447.4,
+      "end": 452.4,
+      "text": " You can use this thing.  Okay.  All in all.  This is the thing.  I hope you enjoyed it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=447"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 452.4,
+      "end": 457.4,
+      "text": " Now preload.  The most confusing.  Attribute.  And that's why I have.  Explained it on codewithaddy.com.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=452"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 457.4,
+      "end": 462.4,
+      "text": " That the preload attribute.  It can have these values.  The first value can be none.  This is the default value.  It indicates.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=457"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 462.4,
+      "end": 467.4,
+      "text": " That the browser should not.  Preload the audio at all.  Okay.  Preload means.  If you want.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=462"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 467.4,
+      "end": 472.4,
+      "text": " That the browser fetches the data.  Then you will use the preload attribute.  Otherwise.  You will not use the preload attribute.  Okay.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=467"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 472.4,
+      "end": 477.4,
+      "text": " Preload is equal to none.  Default value.  Preload is equal to metadata.  Means.  That the browser.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=472"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 477.4,
+      "end": 482.4,
+      "text": " Will not fetch the data.  Okay.  Preload is equal to metadata.  Means.  That the browser.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=477"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 482.4,
+      "end": 487.4,
+      "text": " Only the metadata.  That is.  The information about that audio file.  It will preload it.  It will load it from the beginning.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=482"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 487.4,
+      "end": 492.4,
+      "text": " And what will happen by doing auto.  That the browser.  Will preload the entire audio.  Okay.  So preload is equal to auto.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=487"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 492.4,
+      "end": 497.4,
+      "text": " If I do.  Then it will download.  And automatically.  Will be loaded.  So that whenever the user plays it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=492"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 497.4,
+      "end": 502.4,
+      "text": " Then the audio is saved.  Okay.  So.  This is the work of the preload attribute.  And in interviews.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=497"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 502.4,
+      "end": 507.4,
+      "text": " This preload attribute is asked a lot.  So you should know.  That what is the preload attribute.  Before moving forward.  I want you to.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=502"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 508.4,
+      "end": 513.4,
+      "text": " Share this playlist.  With your friends.  Because I am seeing.  That the interest is declining a lot.  As we are moving forward in the videos.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=508"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 513.4,
+      "end": 518.4,
+      "text": " My request to you is.  That you like this video.  And along with that.  As you are forking this repository.  You should also star it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=513"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 518.4,
+      "end": 523.4,
+      "text": " Okay.  Your star.  Your likes.  All this will help me a lot.  To bring such free courses.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=518"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 523.4,
+      "end": 528.4,
+      "text": " So this was.  About audio and video tags.  Okay.  I have told you all the attributes.  And you should definitely use it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=523"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 528.4,
+      "end": 533.4,
+      "text": " I will give you all the images.  So that you can.  Understand it.  Okay.  So.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=528"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 533.4,
+      "end": 538.4,
+      "text": " I am signing off.  I am signing off.  I am signing off.  I will give you the link.  So that you can try it out.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=533"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 538.4,
+      "end": 543.4,
+      "text": " Many people were asking.  Can we use replit.  See in this course.  I have not used replit.  But replit.com is an amazing website.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=538"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 543.4,
+      "end": 548.4,
+      "text": " If you want.  You can use it in your phone.  If you want to run.  HTML.  There is a replit app.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=543"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 548.4,
+      "end": 553.4,
+      "text": " For iOS.  For Android.  So you can try it out.  Many people are asking.  How to do coding in the phone.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=548"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 553.4,
+      "end": 558.4,
+      "text": " Replit.  But what I want right now.  VS code.  Which most of the people.  Want to use.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=553"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 558.4,
+      "end": 563.4,
+      "text": " Prefer.  So I thought.  Why not use VS code.  So I thought.  Why not use VS code.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=558"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 563.4,
+      "end": 568.4,
+      "text": " So I thought.  Why not use VS code.  I thought.  Why not make videos in VS code.  But I personally.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=563"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 568.4,
+      "end": 573.4,
+      "text": " Use replit a lot.  Infact videos also come in replit.  Next topic is.  SVG.  Media related.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=568"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 573.4,
+      "end": 578.4,
+      "text": " What is SVG.  SVG is a format.  With which you.  Can create an image.  With high graphics.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=573"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 578.4,
+      "end": 583.4,
+      "text": " Vector images.  So if you copy.  You can make a circle.  In this.  So SVG is used.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=578"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 583.4,
+      "end": 588.4,
+      "text": " In the same way.  As.  Our IMG tag is used.  So see.  If I put SVG here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=583"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 588.4,
+      "end": 593.4,
+      "text": " So this SVG comes here.  So this SVG comes here.  So this SVG comes here.  So this SVG comes here.  So this SVG comes here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=588"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 593.4,
+      "end": 598.4,
+      "text": " So this SVG comes here.  So this SVG comes here.  So this circular SVG.  Comes here.  Video.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=593"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 598.4,
+      "end": 603.4,
+      "text": " Audio.  SVG.  These are inline elements.  That's why.  We are getting to see in line.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=598"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 603.4,
+      "end": 608.4,
+      "text": " Okay.  You have seen here.  Now.  What is here.  You can save the SVG file separately.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=603"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 608.4,
+      "end": 613.4,
+      "text": " You can save the SVG file separately.  Like if I write here.  That.  IMG.SVG.  And save the content of SVG.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=608"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 613.4,
+      "end": 618.4,
+      "text": " So if I write here.  IMG.  And I will write.  IMG.SVG.  So you guys see here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=613"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 618.4,
+      "end": 623.4,
+      "text": " That.  If I write.  IMG.SVG.  Then.  If I write.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=618"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 623.4,
+      "end": 628.4,
+      "text": " Then you guys see here.  That I did not get to see this image.  If I write alt here.  And write.  My.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=623"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 628.4,
+      "end": 633.4,
+      "text": " SVG.  Image.  Then you see here.  That.  My SVG image came like this.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=628"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 633.4,
+      "end": 638.4,
+      "text": " But I did not get to see SVG.  Why did this happen?  This happened because.  Because the SVG.  SVG file.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=633"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 638.4,
+      "end": 643.4,
+      "text": " In.  Browser.  I write.  And.  SVG file.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=638"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 643.4,
+      "end": 648.4,
+      "text": " Whenever you want in the browser.  That you see.  Then you will put a declaration on top.  I will show you.  So I wrote here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=643"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 648.4,
+      "end": 653.4,
+      "text": " SVG.  File not showing.  So.  Here.  There is an answer to the stack overflow.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=648"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 653.4,
+      "end": 658.4,
+      "text": " Which will tell you.  So you have to write this.  I will show you.  XML.  Something like this.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=653"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 658.4,
+      "end": 663.4,
+      "text": " See.  You have to add this.  It is called namespace declaration.  So this SVG.  You have to add this thing.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=658"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 663.4,
+      "end": 668.4,
+      "text": " And.  Now you guys see here.  SVG was seen.  So this thing is very important.  And many people.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=663"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 668.4,
+      "end": 673.4,
+      "text": " In the future.  Whenever you make websites.  Your own.  So.  Will definitely get stuck in this problem.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=668"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 673.4,
+      "end": 678.4,
+      "text": " I keep getting stuck.  Okay.  So I am telling you.  That the problem in which you will get stuck.  I told you before.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=673"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 678.4,
+      "end": 683.4,
+      "text": " You have not got a problem.  I have not got a problem.  I have not got a problem.  I have not got a problem.  I have told the problem.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=678"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 683.4,
+      "end": 688.4,
+      "text": " That is going to come.  And also told the solution.  The next topic is iframes.  Iframes is also a very simple thing.  That.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=683"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 688.4,
+      "end": 693.4,
+      "text": " You can embed another website.  From iframe.  In your website.  Okay.  Like.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=688"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 693.4,
+      "end": 698.4,
+      "text": " If I want.  That I embed this web page.  So I can do it by using iframe.  Like this.  So see.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=693"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 698.4,
+      "end": 703.4,
+      "text": " I wrote iframe this.  And.  I will copy this URL.  And.  I will paste here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=698"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 703.4,
+      "end": 708.4,
+      "text": " And.  You guys see here.  That this website.  Is completely embedded.  Here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=703"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 708.4,
+      "end": 713.4,
+      "text": " In this much iframe.  Okay.  So you can embed here.  But if you want.  That it is embedded.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=708"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 713.4,
+      "end": 718.4,
+      "text": " So you can embed it like this.  I will do one thing.  I will increase its height a little.  So width is equal to.  Width is written.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=713"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 718.4,
+      "end": 723.4,
+      "text": " Width is equal to.  I will give.  Let us say.  122.  Height is equal to.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=718"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 723.4,
+      "end": 728.4,
+      "text": " I will give 444.  Okay.  So see.  It came like this.  Okay.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=723"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 728.4,
+      "end": 733.4,
+      "text": " Now definitely.  It was coming in this width.  So it came in this line.  But if I increase the width a little.  Let us say.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=728"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 733.4,
+      "end": 738.4,
+      "text": " I will increase the width.  322.  Okay.  So see.  It is completely embedded here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=733"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 738.4,
+      "end": 743.4,
+      "text": " My website.  So you can embed a website.  Another use case of iframe.  Is YouTube video.  If you want.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=738"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 743.4,
+      "end": 748.4,
+      "text": " You can share the YouTube video.  If you click on embed.  It will give you the iframe code.  And you can start it.  In any way.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=743"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 748.4,
+      "end": 753.4,
+      "text": " If you want.  Start at a particular time.  You can do that here too.  The point at which you will start.  And share it.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=748"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 753.4,
+      "end": 758.4,
+      "text": " That time comes here.  I will show you.  Wait.  Suppose I want to start from here.  Okay.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=753"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 758.4,
+      "end": 763.4,
+      "text": " Suppose the video starts from here.  So what I will do.  I will click on share.  After clicking on share.  I will click on embed.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=758"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 763.4,
+      "end": 768.4,
+      "text": " So I will click on embed.  And I will click on start.  I will click on start.  So I will click on start.  After clicking on share.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=763"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 768.4,
+      "end": 773.4,
+      "text": " I will click on embed.  I will click on start at 12.19.  And I will copy it.  Here is the copy button.  See.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=768"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 773.4,
+      "end": 778.4,
+      "text": " And I will put it here in my code.  So I will comment this iframe.  And I will put it in the iframe below.  Okay.  I will wrap the word.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=773"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 778.4,
+      "end": 783.4,
+      "text": " So that you can see the code properly.  So now what I will do.  After pasting this.  I will show you the document.  See this video is embedded here.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=778"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 783.4,
+      "end": 788.4,
+      "text": " Okay.  So I hope you understood this thing.  And.  Media in HTML is only this.  Pretty much.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=783"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 788.4,
+      "end": 793.4,
+      "text": " So.  I hope you understood.  And.  I hope you understood.  And.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=788"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 793.4,
+      "end": 798.4,
+      "text": " And.  And.  And.  Audio.  And.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=793"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 798.4,
+      "end": 803.4,
+      "text": " Audio in HTML is only this.  Miscellaneous.  Miscellaneous is the category in which you will see many things in every topic.  But pretty much.  That's all about media in HTML.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=798"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 803.4,
+      "end": 808.4,
+      "text": " Audio.  Video.  Media is only this.  This is what you will use.  95% of the times.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=803"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 808.4,
+      "end": 814.4399999999999,
+      "text": " Okay.  Now I give you a quick quiz.  And your quick quiz is this.  That.  Create.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=808"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 814.4399999999999,
+      "end": 822.0799999999999,
+      "text": " A website.  Which shows.  Videos of different categories.  Okay and audios of different categories.  You can use.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=814"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 822.0799999999999,
+      "end": 837.28,
+      "text": " YouTube videos.  In an iframe.  Using YouTube's embedding feature.  So what you have to do is you have to make a website in which you will get a lot of content.  Now you can use the video audio tags and YouTube's share feature.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=822"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 837.28,
+      "end": 854.28,
+      "text": " The way I made this YouTube video, you can also embed it here.  And make a very good website and show me.  If you want, you can give me a comment on GitHub.  And if you want, you can also tell me the code and explain it.  But do attempt this quiz and write Sigma Batchop in the comment section.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=837"
+    },
+    {
+      "number": "10",
+      "title": "Video Audio  Media in HTML",
+      "start": 854.28,
+      "end": 865.28,
+      "text": " Access this playlist, like the video and definitely write Sigma Batchop here.  That's all for this video guys.  Thank you so much guys for watching this video.  And I will see you next time.",
+      "youtube_link": "https://youtu.be/XZwBNDGuWGU?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&t=854"
+    }
+  ],
+  "text": " And I will see you next time."
+}
